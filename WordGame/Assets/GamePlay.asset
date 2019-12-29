@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2075b5e1b16dc43de8ab28931416090f, type: 3}
+  m_Name: GamePlay
+  m_EditorClassIdentifier: 
+  storyState: 'It was a cold rainy day, Mia invited 4 friends for dinner. 20 minites
+    later shhe was killed.
+
+    You have investigate all and find out the criminal.
+
+
+    Press 1 to investicate Mary
+
+    Press 2 to investigate Emily
+
+    Press 3 to investigate Noah
+
+    Press 4 to investigate Nancy
+
+'
+  nextStates:
+  - {fileID: 11400000, guid: 5395c7d9ed17c4dd89ba25192fa665d1, type: 2}
+  - {fileID: 11400000, guid: 19ce026323a564d8b83edaaae8095ff1, type: 2}
+  - {fileID: 11400000, guid: 8fe9e501380434fbb956b544fdaea77e, type: 2}
+  - {fileID: 11400000, guid: 23215f220e42540a09cb93b4e63df66f, type: 2}

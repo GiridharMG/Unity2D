@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{7C1CEABB-EA2F-9BC2-234D-2FEBDCD43D24}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Goli.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Goli.cs" Line="22" Column="1" />
+      <File FileName="Assets/Scripts/Goli.cs" Line="19" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="69bfc65d-6f16-4f55-9d4b-e7f3c620acd6" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

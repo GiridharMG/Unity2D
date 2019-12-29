@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32abddfaa110e4551a9610a9b48a82e1, type: 3}
+  m_Name: BaloonWave 11
+  m_EditorClassIdentifier: 
+  baloon: {fileID: 1257703435212658, guid: 500a74dfc603546be9ab6a6b22382db4, type: 2}
+  wave: {fileID: 1586415744555826, guid: 87ae8968d98e44002a6390c82706d523, type: 2}
+  timeBetweenSpawns: 2
+  speed: 10

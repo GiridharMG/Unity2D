@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{A223170C-F052-CF11-D963-D2D45A3ECE8C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Choose.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Choose.cs" Line="26" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2c672386-21df-4c54-80b4-54aad6ddbae0" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

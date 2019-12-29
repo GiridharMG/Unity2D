@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{165F72CC-6D19-A4DF-161B-4831D5549683}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Spawning.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="1" Column="19" />
+      <File FileName="Assets/Scripts/Spawning.cs" Line="12" Column="40" />
+      <File FileName="Assets/Scripts/DestroyObjects.cs" Line="1" Column="19" />
+      <File FileName="Assets/Scripts/Enemy.cs" Line="2" Column="19" />
+      <File FileName="Assets/Scripts/LifeCounter.cs" Line="1" Column="19" />
+      <File FileName="Assets/Scripts/ManageScene.cs" Line="1" Column="19" />
+      <File FileName="Assets/Scripts/CountScore.cs" Line="1" Column="19" />
+      <File FileName="Assets/Scripts/ScoreManger.cs" Line="1" Column="19" />
+      <File FileName="Assets/Scripts/People.cs" Line="2" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f8ba660d-0f55-4a8f-aaef-97be77110ba9" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

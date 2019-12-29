@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{AC5BE37A-206D-89D8-4081-53E1CE80D6AC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Spawner.cs">
+    <Files>
+      <File FileName="Assets/Script/Spawner.cs" Line="76" Column="67" />
+      <File FileName="Assets/Script/FloorHole.cs" Line="23" Column="92" />
+      <File FileName="Assets/Script/Fixer.cs" Line="41" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="bb9224f4-fdfc-45dd-bf63-d63118fea28e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1916677372595572}
+  m_IsPrefabAsset: 1
+--- !u!1 &1916677372595572
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4060608450295272}
+  - component: {fileID: 114234813316155854}
+  m_Layer: 0
+  m_Name: TerrorSpawner
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4060608450295272
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1916677372595572}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114234813316155854
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1916677372595572}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a10562e86e0f46ce9ff083302daa272, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  enemySpawners:
+  - {fileID: 1136987302660356, guid: a2905f62ff30e4fe7969e73dea3065c2, type: 2}
+  - {fileID: 1641196396793510, guid: b1328a438488c4d47bc9512faa3bbe0c, type: 2}
+  - {fileID: 1329397815976976, guid: 57497d8d0a6ab4be99366ce5058e3186, type: 2}
+  spawningPoint:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  people: {fileID: 1152974334701738, guid: 68eeef1fc82d84c0cb912e64e83abf98, type: 2}
+  audios:
+  - {fileID: 8300000, guid: 6dad752a6d8d5456e9eba4485da8dfcd, type: 3}
+  - {fileID: 8300000, guid: ab20914f6bbd14be592f5f0c8316c683, type: 3}
+  - {fileID: 8300000, guid: d2aca4e37dd974d16b7176c5920febbe, type: 3}
+  - {fileID: 8300000, guid: 97a9104e845c34a3aa25c5b1b44278fb, type: 3}
+  - {fileID: 8300000, guid: 2505e6267cc364d54899ebe66381dac6, type: 3}
+  - {fileID: 8300000, guid: 211a364bc2c894275ab933b3722251e7, type: 3}
+  - {fileID: 8300000, guid: e64feb8a3214448979b07f2bf0625e2b, type: 3}
+  - {fileID: 8300000, guid: 840807a8b6eaf42fba810460eaf0e59b, type: 3}

@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{15903556-0E97-D4FB-46C7-A7978CA8D949}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/EnemyPath.cs">
+    <Files>
+      <File FileName="Assets/Scripts/SceneLoader.cs" Line="18" Column="53" />
+      <File FileName="Assets/Scripts/Player.cs" Line="39" Column="6" />
+      <File FileName="Assets/Scripts/DestroyWithCollaider.cs" Line="11" Column="1" />
+      <File FileName="Assets/Scripts/Fire.cs" Line="15" Column="6" />
+      <File FileName="Assets/Scripts/EnemyPath.cs" Line="18" Column="3" />
+      <File FileName="Assets/Scripts/EnemyWave.cs" Line="11" Column="36" />
+      <File FileName="Assets/Scripts/EnemySpawner.cs" Line="28" Column="10" />
+      <File FileName="Assets/Scripts/Enemy.cs" Line="63" Column="101" />
+      <File FileName="Assets/Scripts/Dameger.cs" Line="26" Column="1" />
+      <File FileName="Assets/Scripts/PauseResumeGame.cs" Line="24" Column="29" />
+      <File FileName="Assets/Scripts/ScoresDisplay.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/HealthDisplay.cs" Line="22" Column="14" />
+      <File FileName="Assets/Scripts/SoundManager.cs" Line="27" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

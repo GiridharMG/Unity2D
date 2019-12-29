@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{63AF1CAA-2C69-38F9-EBAE-22E67501F8AD}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Hole.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Filler.cs" Line="70" Column="42" />
+      <File FileName="Assets/Scripts/Spwner.cs" Line="48" Column="19" />
+      <File FileName="Assets/Scripts/Hole.cs" Line="18" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="bb9224f4-fdfc-45dd-bf63-d63118fea28e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

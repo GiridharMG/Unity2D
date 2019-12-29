@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2075b5e1b16dc43de8ab28931416090f, type: 3}
+  m_Name: StartingState
+  m_EditorClassIdentifier: 
+  storyState: "1. You are an private ditective and you got a    case to solve. \n2.
+    Carefully choose an option and search for the criminal to solve a case. \n3. The
+    criminal's next target is the minister's house. \n4. If you miss him and you will
+    in jail thinking that you are helping criminal."
+  nextStates:
+  - {fileID: 11400000, guid: c47956f8f722b44e8ac2e1f640bcc5a5, type: 2}

@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{5439EF42-D87D-FA91-DFA3-922A33C3E41C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Enemy.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Player.cs" Line="81" Column="10" />
+      <File FileName="Assets/Scripts/PointerEventControl.cs" />
+      <File FileName="Assets/Scripts/Enemy.cs" Line="86" Column="1" />
+      <File FileName="Assets/Scripts/EnemySpawner.cs" />
+      <File FileName="Assets/Scripts/RocketLancher.cs" />
+      <File FileName="Assets/Scripts/RocketLoader.cs" />
+      <File FileName="Assets/plugins/LeoLuz/Virtual Plug and Play Joystick/Scripts/AnalogicKnob.cs" />
+      <File FileName="Assets/Standard Assets/CrossPlatformInput/Scripts/Joystick.cs" />
+      <File FileName="Assets/Scripts/StackerSpawner.cs" Line="23" Column="59" />
+      <File FileName="Assets/Scripts/Stacker.cs" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SunakiJets" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Enemy.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="SunakiJets" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e8f13339-af09-4340-9f7a-f3e1a1e23767" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

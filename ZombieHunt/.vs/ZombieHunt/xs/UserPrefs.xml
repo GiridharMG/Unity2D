@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{A59EEBDE-9037-E378-1A42-5920C517C3D7}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DefenderSpawner.cs">
+    <Files>
+      <File FileName="Assets/Scripts/DefenderSpawner.cs" Line="24" Column="30" />
+      <File FileName="Assets/Scripts/Fox.cs" Line="37" Column="1" />
+      <File FileName="Assets/Scripts/Attacker.cs" Line="11" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

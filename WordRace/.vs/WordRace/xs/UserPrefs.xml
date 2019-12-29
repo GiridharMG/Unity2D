@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{69F707AD-3A7D-3F61-5863-F9947C2BA144}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/StartEdit.cs">
+    <Files>
+      <File FileName="Assets/Script/Word.cs" Line="54" Column="19" />
+      <File FileName="Assets/Script/Background.cs" />
+      <File FileName="Assets/Script/LifeCounter.cs" />
+      <File FileName="Assets/Script/ManageScene.cs" Line="14" Column="9" />
+      <File FileName="Assets/Script/ScoreManger.cs" />
+      <File FileName="Assets/Script/CountScore.cs" />
+      <File FileName="Assets/Script/StartEdit.cs" Line="12" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2c672386-21df-4c54-80b4-54aad6ddbae0" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

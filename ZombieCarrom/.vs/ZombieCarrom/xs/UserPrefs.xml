@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{B1F59C6A-2D3F-8C1C-DA2C-EA2919228A0D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Striker.cs">
+    <Files>
+      <File FileName="Assets/Script/Striker.cs" Line="129" Column="60" />
+      <File FileName="Assets/Script/PawnSpawner.cs" />
+      <File FileName="Assets/Script/Pawn.cs" />
+      <File FileName="Assets/Script/StrikerMover.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="bb9224f4-fdfc-45dd-bf63-d63118fea28e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

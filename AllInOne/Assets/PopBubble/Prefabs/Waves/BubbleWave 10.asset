@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6264f1304181a4df884673d4c4aeffb6, type: 3}
+  m_Name: BubbleWave 10
+  m_EditorClassIdentifier: 
+  bubble: {fileID: 1792733532527816, guid: 0535759a774084bae9e3183df164d2ea, type: 2}
+  wave: {fileID: 1222089599608798, guid: 6a027706ea92c4807910c6064f21e3e3, type: 2}
+  timeBetweenSpawns: 2
+  speed: 6

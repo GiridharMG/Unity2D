@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{07D54D64-BECF-4D66-6504-530DBF92CDFB}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/WordGameControl.cs">
+    <Files>
+      <File FileName="Assets/WordGameControl.cs" Line="26" Column="32" />
+      <File FileName="Assets/State.cs" Line="9" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

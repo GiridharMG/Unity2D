@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{71FCD5EB-0D0A-0D38-BE01-E3D8A54B8142}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SceneLoder.cs">
+    <Files>
+      <File FileName="Assets/Scripts/LooseCollider.cs" Line="10" Column="46" />
+      <File FileName="Assets/Scripts/SceneLoder.cs" Line="13" Column="1" />
+      <File FileName="Assets/Scripts/PaddleMover.cs" Line="17" Column="63" />
+      <File FileName="Assets/Scripts/BallMover.cs" Line="33" Column="80" />
+      <File FileName="Assets/Scripts/Block.cs" Line="32" Column="54" />
+      <File FileName="Assets/Scripts/Level.cs" Line="22" Column="1" />
+      <File FileName="Assets/Scripts/GameStatus.cs" Line="40" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

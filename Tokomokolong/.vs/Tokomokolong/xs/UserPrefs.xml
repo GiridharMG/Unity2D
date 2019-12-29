@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{1785D06A-4E56-1C16-9B86-D539A5AA0F2D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Player.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Player.cs" Line="17" Column="63" />
+      <File FileName="Assets/Scripts/Villain.cs" />
+      <File FileName="Assets/Scripts/House.cs" />
+      <File FileName="Assets/Scripts/AbstracalSpawner.cs" />
+      <File FileName="Assets/Scripts/Rewards.cs" />
+      <File FileName="Assets/Scripts/Reward.cs" />
+      <File FileName="Assets/Scripts/ScoreManger.cs" />
+      <File FileName="Assets/Scripts/LifeCounter.cs" />
+      <File FileName="Assets/Scripts/Tree.cs" />
+      <File FileName="Assets/Scripts/TreeSpawner.cs" Line="18" Column="6" />
+      <File FileName="Assets/Scripts/ManageScene.cs" />
+      <File FileName="Assets/Scripts/CountScore.cs" Line="13" Column="43" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tokomokolong" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Player.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e8f13339-af09-4340-9f7a-f3e1a1e23767" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

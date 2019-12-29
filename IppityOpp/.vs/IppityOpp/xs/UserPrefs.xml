@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{47BC744E-3CCD-39FD-86DD-520387E58D30}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PedalMovement.cs">
+    <Files>
+      <File FileName="Assets/Scripts/AwardSpawner.cs" Line="36" Column="2" />
+      <File FileName="Assets/Scripts/Award.cs" />
+      <File FileName="Assets/Scripts/SeeSaw.cs" />
+      <File FileName="Assets/Scripts/PedalMovement.cs" Line="12" Column="54" />
+      <File FileName="Assets/Scripts/ChangeButtton.cs" />
+      <File FileName="Assets/Scripts/Ball.cs" Line="24" Column="43" />
+      <File FileName="Assets/Scripts/BlackHole.cs" />
+      <File FileName="Assets/Scripts/CountScore.cs" />
+      <File FileName="Assets/Scripts/LifeCounter.cs" />
+      <File FileName="Assets/Scripts/Obstacal.cs" />
+      <File FileName="Assets/Scripts/ObstacalSpawner.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4510e15f-1c5b-4725-bb86-12d8dc0d2f73" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
